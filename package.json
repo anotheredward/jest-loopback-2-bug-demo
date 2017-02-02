@@ -29,6 +29,9 @@
     "type": "",
     "url": ""
   },
+  "jest": {
+    "testEnvironment": "node"
+  },
   "license": "UNLICENSED",
   "description": "test"
 }
